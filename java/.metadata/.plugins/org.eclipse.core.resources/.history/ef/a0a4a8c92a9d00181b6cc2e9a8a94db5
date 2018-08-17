@@ -1,0 +1,21 @@
+package homework;
+
+public class Whileodd {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		// Write a Java program to print the odd numbers from 1 to 99. Prints one number per line.
+		int i=1;
+		 while(i<=100) {
+			 System.out.println(i + ":oddnumber");
+			 i++;
+		 }
+
+	}
+
+}
+
+
+	
+
+
